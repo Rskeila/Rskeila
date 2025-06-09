@@ -1,6 +1,9 @@
-## Hi there 👋 I'm Keila Rios
+## # Hi there 👋, I'm Keila Rios
 
-✨ Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
+
+Passionate about backend development, data analysis, and product management. 🚀
+
 
 - 🔭 I’m currently working on **projects with Python and Data Analysis** 🐍📊  
 - 🌱 I’m currently learning **SQL, Power BI and Back-end development** 🛠️📚  
