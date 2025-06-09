@@ -29,7 +29,7 @@ Passionate about backend development, data analysis, and product management. üö
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-005A9C?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-### Metodologias √Ågeis
+## Agile Methodologies
 
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
 
