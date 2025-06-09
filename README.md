@@ -1,4 +1,4 @@
-## # Hi there 👋, I'm Keila Rios
+## Hi there 👋, I'm Keila Rios
 
 ## Welcome to my GitHub profile!
 
