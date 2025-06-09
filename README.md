@@ -2,11 +2,12 @@
 
 ✨ Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on **projects with Python and Data Analysis**
-- 🌱 I’m currently learning **SQL, Power BI and Back-end development**
-- 👯 I’m looking to collaborate on **data projects and automation**
-- 💼 I’m also passionate about **Product Management (PM)** and enjoy combining tech with strategic planning
-- 📫 How to reach me: rskeila@outlook.com
+- 🔭 I’m currently working on **projects with Python and Data Analysis** 🐍📊  
+- 🌱 I’m currently learning **SQL, Power BI and Back-end development** 🛠️📚  
+- 👯 I’m looking to collaborate on **data projects and automation** 🤖✨  
+- 💼 I’m also passionate about **Product Management (PM)** 🚀📈  
+- 📫 How to reach me: [rskeila@outlook.com](mailto:rskeila@outlook.com) 📧  
+- 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/rskeila/) 🌐 
 
 
 
