@@ -5,10 +5,10 @@
 - 🔭 I’m currently working on **projects with Python and Data Analysis**
 - 🌱 I’m currently learning **SQL, Power BI and Back-end development**
 - 👯 I’m looking to collaborate on **data projects and automation**
-- 💬 Ask me about **Python, SQL, and data visualization**
-- 📫 How to reach me: [rskeila@outlook.com](mailto:rskeila@outlook.com 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love Italian music and dream of living in Italy 🇮🇹
+- 💼 I’m also passionate about **Product Management (PM)** and enjoy combining tech with strategic planning
+- 📫 How to reach me: rskeila@outlook.com
+
+
 
 ---
 
