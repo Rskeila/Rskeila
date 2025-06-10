@@ -39,4 +39,9 @@ Passionate about backend development, data analysis, and product management. ðŸš
 ### ðŸ“ˆ GitHub Stats
 
 ![Rskeila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rskeila&show_icons=true&theme=radical)
+![Rskeila's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rskeila&layout=compact)
+
+
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Rskeila.meu-projeto)
+
 
